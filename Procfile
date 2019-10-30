@@ -1,0 +1,1 @@
+web: java war:deploy target/provacheva.war --app provacheva
