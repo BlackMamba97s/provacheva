@@ -1,1 +1,1 @@
-web: java war:deploy target/provacheva.war --app tentativo
+web: war:deploy target/provacheva.war --app tentativo
